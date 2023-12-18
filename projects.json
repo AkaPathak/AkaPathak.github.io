@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Project 1",
+      "image": "project1_image.jpg",
+      "description": "Description of Project 1 goes here.",
+      "codeSnippet": "// Insert code snippet for Project 1 here",
+      "results": "Describe the results and outcomes of Project 1."
+    },
+    {
+      "title": "Project 2",
+      "image": "project2_image.jpg",
+      "description": "Description of Project 2 goes here.",
+      "codeSnippet": "// Insert code snippet for Project 2 here",
+      "results": "Describe the results and outcomes of Project 2."
+    }
+    // Add more project entries as needed
+  ]
+  
